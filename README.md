@@ -1,13 +1,13 @@
-# DEVELOPMENT FREEZE
+# DEVELOPMENT RESTART
 
-## This codebase is currently under a development freeze, until changes are implemented that are being implemented in a private repo can be brought over. The private repo is not being actively hosted anywhere. The only PRs that will be considered at this time are small bug fixes.
+## This codebase is for a new server that is based off of the Blackstone branch of rogue town we seek to pick up the work and make a new server ourselves.
 
 "Ne participes, nec mors sequetur"
-# Blackstone
-Blackstone is a fantasy roleplaying game based on the source code for Roguetown, and is inspired by Table Top Roleplaying Games. The goal of Blackstone is to provide a freeform fantasy roleplay environment with minimal admin intervention, where players are empowered to collectively decide what is and is not acceptable through in-game action.
+# BleakGrave
+Bleakgrave is a dark fantasy version of the game "Space Station 13" it uses aspects from old codebases but most recently is a branch of BlackStone. We seek to have RP be the main aspect of our server over all else.
 
 ## Wiki
-The wiki is currently being worked on at [here](https://wiki.moviesfreepremium.xyz/blackstone)
+We do not have a independent wiki however here is the BlackStone one [here](https://wiki.moviesfreepremium.xyz/blackstone)
 
 ## Discord
-Come say hi on the [discord](https://discord.gg/cHrV2mUmE4), it is where the community is the most active.
+Come say hi on the [discord](https://discord.gg/E9Zgf2mrAJ), it is where the community is the most active.
