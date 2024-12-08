@@ -73,7 +73,6 @@
 		message = " [message] "
 		//Time for a friendly game of SS13
 		message = replacetext(message," stupid "," smart ")
-		message = replacetext(message," retard "," genius ")
 		message = replacetext(message," unrobust "," robust ")
 		message = replacetext(message," dumb "," smart ")
 		message = replacetext(message," awful "," great ")
@@ -102,10 +101,6 @@
 		message = replacetext(message," fat "," thin ")
 		message = replacetext(message," beer "," water with ice ")
 		message = replacetext(message," drink "," water ")
-		message = replacetext(message," feminist "," empowered woman ")
-		message = replacetext(message," i hate you "," you're mean ")
-		message = replacetext(message," nigger "," african american ")
-		message = replacetext(message," jew "," jewish ")
 		message = replacetext(message," shit "," shiz ")
 		message = replacetext(message," crap "," poo ")
 		message = replacetext(message," slut "," tease ")
