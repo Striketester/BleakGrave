@@ -1,5 +1,5 @@
 /datum/faith/divine
 	name = "Divine Pantheon"
-	desc = "The most accepted religion in Rockhill. May Almighty Psydon and His nine children protect us from Zizo!"
+	desc = "The humanized ideations of the many divine aspects of reality, thought to be the children of Psydon even if many arent directly."
 	worshippers = "Humans and citizens of Rockhill"
 	godhead = /datum/patron/divine/astrata
