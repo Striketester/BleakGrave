@@ -55,7 +55,7 @@
 /datum/patron/divine/xylix
 	name = "Xylix"
 	domain = "God of Trickery, Freedom and Inspiration"
-	desc = "The Creation Of Advancement, when life began to play tricks he was born. Thought incorrectly to be a child of Psydon."
+	desc = "The Creation Of Advancement, when life began to play tricks he was born. Now he manifests thought many different forms and entities some connect him to a aspect which rose at the grand desert. Thought incorrectly to be a child of Psydon."
 	worshippers = "Cheats, Frauds, Silver-Tongued devils and Roguish Types"
 
 /datum/patron/divine/pestra
@@ -72,6 +72,6 @@
 /datum/patron/divine/malum
 	name = "Malum"
 	domain = "God of Cycles, Destruction and Rebirth"
-	desc = "The Empty Creation, He is nearly as eternal as the first creations and ever marching."
+	desc = "The Empty Creation, He is nearly as eternal as the first creations and ever marching. Like all gods his powers and connections change based on how his domain manifests, not to mention peoples interpretations shape the divine."
 	worshippers = "Smiths, Miners, Artists"
 	t1 = /obj/effect/proc_holder/spell/invoked/sacred_flame_rogue
