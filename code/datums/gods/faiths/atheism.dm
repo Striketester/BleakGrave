@@ -1,6 +1,6 @@
 /datum/faith/godless
 	name = "Godless"
-	desc = "Gods are the observable, simply a affect of something potentially measurable. We do not need to worship them as humanity made them, they are false!"
+	desc = "Although gods obviously exist in this world, you refuse to bow down to them! You are completely godless."
 	worshippers = "Madmen, beasts and some dwarves"
 	godhead = /datum/patron/godless
 	preference_accessible = FALSE

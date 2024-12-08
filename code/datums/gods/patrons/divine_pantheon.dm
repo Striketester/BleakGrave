@@ -5,25 +5,25 @@
 
 /datum/patron/divine/astrata
 	name = "Astrata"
-	domain = "Goddess of the Bright Star, Light, and Order"
-	desc = "The First Creation of Psydon, twin of Noc, truly ancient yet she remains neutral to the life she fuels. Depite her neutrality her worshippers believe in her love for them. Ever present yet beyond all......"
-	worshippers = "The Self-Proclaimed Noble Hearted, Zealots and Farmers"
+	domain = "Goddess of the Sun, Day, and Order"
+	desc = "The Firstborn of Psydon, twin of Noc, gifted man the Sun as her divine gift."
+	worshippers = "The Noble Hearted, Zealots and Farmers"
 	t1 = /obj/effect/proc_holder/spell/invoked/sacred_flame_rogue
 	t2 = /obj/effect/proc_holder/spell/invoked/heal
 	t3 = /obj/effect/proc_holder/spell/invoked/revive
 
 /datum/patron/divine/noc
 	name = "Noc"
-	domain = "God of the Void, Darkness, and Knowledge"
-	desc = "The First Creation of Psydon, twin of Astrata, neutral and far older than life he is of what can be learned and what can't. His worshippers understand the truth of the gods far better, he is beyond us all....."
+	domain = "God of the Moon, Night, and Knowledge"
+	desc = "The Firstborn of Psydon, twin of Astrata, gifted man divine knowledge."
 	worshippers = "Wizards and Scholars"
 	t1 = /obj/effect/proc_holder/spell/invoked/blindness
 	t2 = /obj/effect/proc_holder/spell/invoked/invisibility
 
 /datum/patron/divine/dendor
 	name = "Dendor"
-	domain = "God of the Earth, Duality, and Nature"
-	desc = "The Primordial After Effect of Psydon, twin of Abyssor, made after a accident between Psydon's other creation. Both despises and adores life he is a god of many faces. He signifies madness to many."
+	domain = "God of the Earth and Nature"
+	desc = "The Primordial Son of Psydon, patron of beasts and the wood. Gone mad with time."
 	worshippers = "Druids, Beasts, Madmen"
 	mob_traits = list(TRAIT_KNEESTINGER_IMMUNITY)
 	t1 = /obj/effect/proc_holder/spell/targeted/blesscrop
@@ -33,19 +33,19 @@
 /datum/patron/divine/abyssor
 	name = "Abyssor"
 	domain = "God of the Ocean, Storms and the Tide"
-	desc = "The Primordial After Effect of Psydon, twin of Dendor, another accident of those older than him. Yet he is beloved by life but thier love is not even noticed by him."
+	desc = "The Beloved Son, gifted primordial men food and water."
 	worshippers = "Men of the Sea, Primitive Aquatics"
 
 /datum/patron/divine/ravox
 	name = "Ravox"
 	domain = "God of War, Justice and Strength"
-	desc = "The Creation Of Life, child of beings he was created when the first beings fought. However despite this truth is considered a son of Psydon."
+	desc = "The strongest of Psydon's children, he watches man from afar."
 	worshippers = "Warriors, Sellswords & those who seek Justice"
 
 /datum/patron/divine/necra
 	name = "Necra"
-	domain = "Goddess of Death, Passing and the Afterlife"
-	desc = "The Creation Of Death, made when the first being died. Like all divine pantheon deities she is thought to be a child of Psydon."
+	domain = "Goddess of Death and the Afterlife"
+	desc = "The Veiled Lady, a feared but respected God who leads the dead."
 	worshippers = "The Dead, Mourners, Gravekeepers"
 	mob_traits = list(TRAIT_SOUL_EXAMINE)
 	t1 = /obj/effect/proc_holder/spell/targeted/burialrite
@@ -55,13 +55,13 @@
 /datum/patron/divine/xylix
 	name = "Xylix"
 	domain = "God of Trickery, Freedom and Inspiration"
-	desc = "The Creation Of Advancement, when life began to play tricks he was born. Now he manifests thought many different forms and entities some connect him to a aspect which rose at the grand desert. Thought incorrectly to be a child of Psydon."
+	desc = "The Mad-God, gifted man wanderlust and a thousand tricks."
 	worshippers = "Cheats, Frauds, Silver-Tongued devils and Roguish Types"
 
 /datum/patron/divine/pestra
 	name = "Pestra"
-	domain = "Goddess of Rot, Disease and Medicine"
-	desc = "The Creation of Life, when the first corpse rotted the life that had infested the dead created Pestra."
+	domain = "Goddess of Decay, Disease and Medicine"
+	desc = "The Loving Daughter of Psydon, gifted man medicine."
 	worshippers = "The Sick, Phyicians, Apothecaries"
 	mob_traits = list(TRAIT_EMPATH, TRAIT_ROT_EATER)
 	t0 = /obj/effect/proc_holder/spell/invoked/diagnose
@@ -71,7 +71,7 @@
 
 /datum/patron/divine/malum
 	name = "Malum"
-	domain = "God of Cycles, Destruction and Rebirth"
-	desc = "The Empty Creation, He is nearly as eternal as the first creations and ever marching. Like all gods his powers and connections change based on how his domain manifests, not to mention peoples interpretations shape the divine."
+	domain = "God of Fire, Destruction and Rebirth"
+	desc = "The Opinionless God, his children hold no malice in their actions."
 	worshippers = "Smiths, Miners, Artists"
 	t1 = /obj/effect/proc_holder/spell/invoked/sacred_flame_rogue
