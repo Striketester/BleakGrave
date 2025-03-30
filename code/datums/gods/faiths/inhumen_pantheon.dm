@@ -1,5 +1,5 @@
 /datum/faith/inhumen
-	name = "Inhumen Pantheon"
+	name = "Inhumenism"
 	desc = "The nine are FALSE GODS.\n\
 		They keep us trapped in tartarus and choke out our divine light, \
 		but only though FULL BELIEF in the divinity of men and women can we escape and reach the TRUE spiritual realm.\n\
