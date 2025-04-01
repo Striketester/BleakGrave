@@ -306,10 +306,10 @@ GLOBAL_VAR(restart_counter)
 	var/s = ""
 	s += "<center><a href=\"https://discord.gg/bx9c7ha5Qk\">"
 #ifdef MATURESERVER
-	s += "<big><b>BLACKSTONE</b></big></a><br>"
+	s += "<big><b>BLEAKGRAVE</b></big></a><br>"
 	s += "<b>Fantasy Computer Roleplaying Game</b></center><br>"
 #else
-	s += "<big><b>BLACKSTONE</b></big></a><br>"
+	s += "<big><b>BLEAKGRAVE</b></big></a><br>"
 	s += "<b>Fantasy Computer Survival Game</b></center><br>"
 #endif
 //	s += "<img src=\"https://i.imgur.com/shj547T.jpg\"></a></center>"
