@@ -52,10 +52,10 @@
 /datum/species/human/halfelf/get_skin_list()
 	return list(
 		"Timber-Gronn" = SKIN_COLOR_TIMBER_GRONN,
-		"Giza-Azure" = SKIN_COLOR_GIZA_AZURE,
-		"Walnut-Stine" = SKIN_COLOR_WALNUT_STINE,
+		"Neheia-Azure" = SKIN_COLOR_NEHEIA_AZURE,
+		"Walnut-Layea" = SKIN_COLOR_WALNUT_LAYEA,
 		"Etrustcan-Dandelion" = SKIN_COLOR_ETRUSTCAN_DANDELION,
-		"Ebon-Born" = SKIN_COLOR_EBON_BORN,
+		"Enea-Born" = SKIN_COLOR_ENEA_BORN,
 	)
 
 /datum/species/human/halfelf/get_hairc_list()
