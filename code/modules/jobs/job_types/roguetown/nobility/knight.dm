@@ -6,7 +6,7 @@
 	total_positions = 2
 	spawn_positions = 2
 	allowed_races = list("Humen")
-	allowed_sexes = list(MALE)
+	allowed_sexes = list(MALE, FEMALE)
 	allowed_ages = list(AGE_ADULT, AGE_MIDDLEAGED)
 	allowed_patrons = ALL_DIVINE_PATRONS
 	tutorial = "A Knight with expert training; Born into petty nobility and raised as a squire from a young age, now you Guard the king as his knight, answer to his commands, and protect his honor. You're wholy dedicated to him, and his safety. Do not fail him."
@@ -14,7 +14,7 @@
 	whitelist_req = TRUE
 	outfit = /datum/outfit/job/roguetown/knight
 	give_bank_account = 22
-	min_pq = 4
+	min_pq = 0
 	max_pq = null
 
 	cmode_music = 'sound/music/combat_guard2.ogg'
