@@ -53,15 +53,15 @@
 	return list(
 		"Grenzelhoft" = SKIN_COLOR_GRENZELHOFT,
 		"Hammerhold" = SKIN_COLOR_HAMMERHOLD,
-		"Avar" = SKIN_COLOR_AVAR,
+		"Exila" = SKIN_COLOR_EXILA,
 		"Rockhill" = SKIN_COLOR_ROCKHILL,
 		"Otava" = SKIN_COLOR_OTAVA,
 		"Etrusca" = SKIN_COLOR_ETRUSCA,
 		"Gronn" = SKIN_COLOR_GRONN,
-		"Giza" = SKIN_COLOR_GIZA,
-		"Shalvistine" = SKIN_COLOR_SHALVISTINE,
-		"Lalvestine" = SKIN_COLOR_LALVESTINE,
-		"Ebon" = SKIN_COLOR_EBON,
+		"Neheia" = SKIN_COLOR_NEHEIA,
+		"Layea" = SKIN_COLOR_LAYEA,
+		"Lalve" = SKIN_COLOR_LALVE,
+		"Enea" = SKIN_COLOR_ENEA,
 	)
 
 /datum/species/human/northern/get_hairc_list()
