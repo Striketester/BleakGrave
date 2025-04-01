@@ -5,6 +5,8 @@
 # BleakGrave
 Bleakgrave is a dark fantasy version of the game "Space Station 13" it uses aspects from old codebases but most recently is a branch of BlackStone. We seek to have RP be the main aspect of our server over all else.
 
+![New Piskel](https://github.com/user-attachments/assets/31befafd-aaaf-4b2f-8d57-d36f854e8331)
+
 ## Wiki
 We do not have a independent wiki however here is the BlackStone one [here](https://wiki.moviesfreepremium.xyz/blackstone).
 
