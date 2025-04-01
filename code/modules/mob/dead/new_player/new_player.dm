@@ -342,7 +342,7 @@ GLOBAL_LIST_INIT(roleplay_readme, world.file2list("strings/rt/rp_prompt.txt"))
 		if(JOB_UNAVAILABLE_RACE)
 			return "[jobtitle] is not meant for your kind."
 		if(JOB_UNAVAILABLE_SEX)
-			return "[jobtitle] is not meant for your lesser sex."
+			return "[jobtitle] is not meant for you."
 		if(JOB_UNAVAILABLE_AGE)
 			return "[jobtitle] is not meant for your age."
 		if(JOB_UNAVAILABLE_PATRON)
