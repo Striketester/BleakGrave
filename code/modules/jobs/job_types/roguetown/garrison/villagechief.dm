@@ -23,7 +23,7 @@
 	whitelist_req = TRUE
 	outfit = /datum/outfit/job/roguetown/woodsman
 	display_order = JDO_CHIEF
-	min_pq = 3
+	min_pq = 0
 	max_pq = null
 	give_bank_account = 16
 
