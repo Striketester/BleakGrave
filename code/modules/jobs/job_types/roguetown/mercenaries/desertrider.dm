@@ -35,10 +35,10 @@
 
 	// A quick check to make sure the desert rider is canonical
 	var/static/list/canonical_heritage_check_list = list(
-	SKIN_COLOR_GIZA,
-	SKIN_COLOR_LALVESTINE,
-	SKIN_COLOR_SHALVISTINE,
-	SKIN_COLOR_EBON
+	SKIN_COLOR_NEHEIA,
+	SKIN_COLOR_LALVE,
+	SKIN_COLOR_LAYEA,
+	SKIN_COLOR_ENEA
 	)
 	if(ishumannorthern(H) && !(H.skin_tone in canonical_heritage_check_list))
 		H.skin_tone = pick(canonical_heritage_check_list)
