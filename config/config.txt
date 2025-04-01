@@ -232,7 +232,7 @@ USEBLACKLIST
 # SERVER ss13.example.com:2506
 
 ## Discod address
-DISCORDURL https://discord.gg/bx9c7ha5Qk
+DISCORDURL https://discord.com/invite/E9Zgf2mrAJ
 
 ## Wiki address
 WIKIURL https://wiki.moviesfreepremium.xyz/blackstone
@@ -241,7 +241,7 @@ WIKIURL https://wiki.moviesfreepremium.xyz/blackstone
 RULESURL https://wiki.moviesfreepremium.xyz/blackstone/rules
 
 ## Github address
-GITHUBURL https://github.com/Blackstone-SS13/BLACKSTONE
+GITHUBURL https://github.com/Striketester/BleakGrave
 
 ## Round specific stats address
 ## Link to round specific parsed logs; IE statbus. It is appended with the RoundID automatically by ticker/Reboot()
